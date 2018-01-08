@@ -1,0 +1,15 @@
+h1 {
+    color: red;
+    text-align: center;
+    font-family: Helvetica;
+    text-transform: uppercase;  
+}
+
+h2 {
+    text-align: center;
+    color: orange;
+}
+
+body {
+    background-color: cyan;
+}

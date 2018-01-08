@@ -21,3 +21,10 @@ Ex: <pre>: Texto pré-formatado. Mostra o texto da maneira que está no arquivo 
 - A head é a seção onde estão todas as configurações da página. Não aparece no navegador.
 - O body é a parte exibida no navegador, com todas as informações.
 - Algumas tags fornecem suporte a atributos. Ex: html com lang, meta com charset e etc.
+
+CONVENÇÕES: 
+- Colocar o link para o CSS na tag HEAD.
+- Chamar o JavaScript no final do arquivo.
+
+CSS
+- Para formatar alguma parte do seu código HTML, deve-se usar seletores. Ex: h1.
