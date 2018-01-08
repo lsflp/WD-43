@@ -1,0 +1,23 @@
+São Paulo, 8 de janeiro de 2017
+
+DESENVOLVIMENTO FRONT-END:
+
+Costuma ser dividido em 3 camadas:
+1) Informação: texto, imagens, etc. Precisa ser organizado para, por exemplo, ser acessado por motores de busca a fim de fazer com que o site seja indexado. Quem cuida disso é o HTML.
+2) Formatação: faz com que a página seja bonita, para que o usuário não abandone o site. O Google Analytics faz uma análise de uso, rejeição e etc. O CSS é responsável por essa parte. Com o HTML e o CSS já é possível criar páginas estáticas.
+3) Comportamento: serve para adicionar um nível de experiência melhor para o usuário. Precisa de uma linguagem de programação, no caso, o JS.
+
+HTML
+
+Existem dois tipos de tags:
+
+1) Recurso: a tag é colocada e executa altuma ação, por exemplo: quebrar a linha; inserir uma imagem, colocar uma linha horizontal, etc. Só precisa ser escrita.
+2) Tag de contêiner: Faz uma marcação de onde começa e onde termina alguma regra no seu HTML. Cada uma precisa ser aberta e fechada.
+Ex: <pre>: Texto pré-formatado. Mostra o texto da maneira que está no arquivo HTML.
+    <b>: Coloca o texto em negrito.
+
+- A tag DOCTYPE mostra o tipo do documento. Antigamente, era usado para mostrar a versão do HTML ou do XHTML. Hoje, se a versão não está escrita, é inferida a mais nova.
+
+- A head é a seção onde estão todas as configurações da página. Não aparece no navegador.
+- O body é a parte exibida no navegador, com todas as informações.
+- Algumas tags fornecem suporte a atributos. Ex: html com lang, meta com charset e etc.
