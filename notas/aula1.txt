@@ -28,3 +28,18 @@ CONVENÇÕES:
 
 CSS
 - Para formatar alguma parte do seu código HTML, deve-se usar seletores. Ex: h1.
+
+- Existem algumas ferramentas para auxiliar no desenvolvimento front-end, que aumentam a produtividade:
+    - Sublime Text
+    - Brackets
+    - Atom
+    - VSCode
+
+- Vamos usar o VSCode neste curso. Atalhos: 
+    - Ctrl+TAB: Alternar entre abas
+    - Ctrl+W: Fechar aba
+    - Ctrl+P: Pesquisar/abrir arquivo
+    - Ctrl+B: Fecha/abre sidebar
+    - Ctrl+N: Cria nova abandone
+    - Ctrl+S: Salva o arquivo
+    - Digitando !+\t a estrutura básica do texto é criada automaticamente
