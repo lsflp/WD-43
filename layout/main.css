@@ -1,0 +1,50 @@
+body {
+    font: normal normal 1em/1.5 arial;
+}
+
+header, main, footer {
+    display: block;
+}
+
+.site-header, .site-footer {
+    background-color: silver;
+    color: white;
+    min-height: 100px;
+    overflow: hidden;
+    width: 100%;
+}
+
+.site-header li {
+    /* border: 1px solid red; */
+    display: block;
+    width: 20%;
+    line-height: 2;
+    text-align: center;
+    background: #000000;
+    color: #ffffff;
+    text-decoration: none;
+    float: left;
+}
+
+.site-header li:hover {
+    background: orange;
+    color: black; 
+}
+
+.site-header a {
+    color: inherit;
+    text-decoration: inherit;
+    /* background: yellow; */
+    display: block;
+}
+
+.site-main {
+    background: cyan;
+    min-height: 500px;
+}
+
+.site-container {
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+}

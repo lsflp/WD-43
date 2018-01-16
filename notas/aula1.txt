@@ -40,6 +40,6 @@ CSS
     - Ctrl+W: Fechar aba
     - Ctrl+P: Pesquisar/abrir arquivo
     - Ctrl+B: Fecha/abre sidebar
-    - Ctrl+N: Cria nova abandone
+    - Ctrl+N: Cria nova aba
     - Ctrl+S: Salva o arquivo
     - Digitando !+\t a estrutura básica do texto é criada automaticamente
