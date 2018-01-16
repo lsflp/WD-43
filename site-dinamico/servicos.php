@@ -1,3 +1,5 @@
+<?php $page="serviços"; ?>
+
 <!DOCTYPE html>
 <html lang="en">
 <head>

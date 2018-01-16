@@ -1,3 +1,5 @@
+<?php $page="contato"; ?>
+
 <!DOCTYPE html>
 <html lang="en">
 <head>

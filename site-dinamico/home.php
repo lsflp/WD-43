@@ -1,3 +1,5 @@
+<?php $page="home"; ?>
+
 <!DOCTYPE html>
 <html lang="en">
 <head>

@@ -1,3 +1,5 @@
+<?php $page="sobre"; ?>
+
 <!DOCTYPE html>
 <html lang="en">
 <head>

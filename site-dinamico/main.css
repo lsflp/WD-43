@@ -32,6 +32,11 @@ header li:first-child{
     border-top: 2px solid black;
 }
 
+header li.active {
+    background: gold;
+    color: black;
+}
+
 main {
     min-height: 500px;
     background: cyan;
