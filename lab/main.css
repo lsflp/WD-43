@@ -1,0 +1,30 @@
+.abas {
+    width: 220px;
+    min-height: 220px;
+    background: silver;
+    border: 1px solid black;
+}
+
+.abas nav a {
+    display: block;
+    width: 33.3%;
+    line-height: 2;
+    background: black;
+    text-align: center;
+    color: white;
+    float: left;
+}
+
+.abas figure {
+    display: none;
+    margin: 10px;
+}
+
+.abas a.active {
+    background: gold;
+    color: black;
+}
+
+.abas figure.active {
+    display: block;
+}
