@@ -97,6 +97,7 @@
                         </a>
                     </li>
                 </ol>
+                <button type="button">Mostra mais</button>
             </section>
 
             <section class="painel mais-vendidos">
@@ -157,10 +158,14 @@
                             </a>
                         </li>
                     </ol>
+                    <button type="button">Mostra mais</button>
                 </section>
             </div>
         </div>
 
         <?php include("rodape.php"); ?>
+
+        <script src="js/jquery.js"></script>
+        <script src="js/home.js"></script>
     </body>
 </html>

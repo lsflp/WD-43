@@ -69,7 +69,7 @@
 
                 <div class="form-group">
                     <label for="cpf">CPF</label>
-                    <input type="text" name="cpf" id="cpf" class="form-control" placeholder="000.000.000-00">
+                    <input type="text" name="cpf" id="cpf" data-mask="999.999.999-99" class="form-control" placeholder="000.000.000-00">
                 </div>
 
                 <div class="checkbox">
@@ -85,7 +85,7 @@
 
                 <div class="form-group">
                     <label for="numero-cartao">Número - CVV</label>
-                    <input type="text" class="form-control" id="numero-cartao" name="numero-cartao">
+                    <input type="text" class="form-control" id="numero-cartao" data-mask="9999 9999 9999 9999 - 999" name="numero-cartao">
                 </div>
 
                 <div class="form-group">
@@ -111,5 +111,7 @@
     </div>
 
     <script src="js/total.js"></script>
+    <script src="js/jquery.js"></script>
+    <script src="js/inputmask-plugin.js"></script>
 </body>
 </html>
